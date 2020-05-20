@@ -8,7 +8,7 @@
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12">
-                W dniach 29 maja na terenie Giełdy Wschód obowiązują następujące opłaty:<br><br>
+                W dniach 30 maja na terenie Giełdy Wschód obowiązują następujące opłaty:<br><br>
             </div>
             <div class="col-12">
 
