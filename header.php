@@ -122,6 +122,9 @@
                             <li>
                                 <a href="galeria.php">GALERIA</a>
                             </li>
+                            <li>
+                                <a href="plakat.php">PLAKAT</a>
+                            </li>
                         </ul>
                     </li>
                     <li><span>DLA SPRZEDAWCÓW <i class="fa fa-chevron-down ml-3"></i></span>

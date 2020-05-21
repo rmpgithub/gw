@@ -16,12 +16,12 @@
                    <thead>
                       <tr> <th> L.p. <th> <th> Cena PLN
                    <tbody>
-                      <tr> <th> 1 <td> Wjazd na teren giełdy dla handlujących <td> 20,00
+                      <tr> <th> 1 <td> Stoisko- moduł o szerokości 6 m <td> 20,00
                       <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00
                      
                 </table>
-                
-                <br>Parking dla klientów Giełdy Wschód jest bezpłatny.
+                <br>Bezpłatna sprzedaż produktów rolnych przez rolników.
+                <br><br>Parking dla klientów Giełdy Wschód jest bezpłatny.
             </div>
             
             
