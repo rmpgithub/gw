@@ -33,6 +33,15 @@
 </section>
 
 
+<div class="container gallery gallery-index">
+            
+            
+            <div class="row">
+                <div class="col-12"><a href="./src/assets/pdf/Plakat.png"><img class="Thumbnail" src="./src/assets/pdf/Plakat.png" alt=""></a></div>    
+            </div>
+            
+</div>
+
 <!--<section class="container news-index">
     <div class="row mb-3 mb-lg-0">
         <div class="col-12 col-lg-3"></div>
