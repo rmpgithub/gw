@@ -108,6 +108,7 @@
     </video>
 </div> -->
 
+<?php require_once('patronat-medialny.php') ?>
 
 <?php require_once('footer.php') ?>
 
