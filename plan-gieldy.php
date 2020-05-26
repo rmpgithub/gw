@@ -12,7 +12,7 @@
 
 
         <div class="row">
-            <div class="col-md-offset-1"><a href="./src/assets/pdf/plan/planwystawy.png"><img class="Thumbnail" src="./src/assets/pdf/plan/planwystawy.png" alt=""></a></div>
+            <div class="col-md-offset-1"><a href="./src/assets/pdf/plan/Plan.png"><img class="Thumbnail" src="./src/assets/pdf/plan/Plan.png" alt=""></a></div>
 
         </div>
 

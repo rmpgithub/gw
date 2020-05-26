@@ -141,9 +141,9 @@
                             <li>
                                 <a href="cennik.php">CENNIK</a>
                             </li>
-							<!-- <li>
-                                <a href="wystawcy.php">WYSTAWCY</a>
-                            </li> -->
+							<li>
+                                <a href="plan-gieldy.php">PLAN GIEŁDY</a>
+                            </li> 
                             <li>
                                 <a href="kontakt.php">DOJAZD</a>
                             </li>
