@@ -21,6 +21,14 @@
                     
                 </ul>
 
+                <ul>
+                    <li class="dllink">
+                        <a target="_blank" href="./src/assets/pdf/COVID-19.pdf"><span> Dodatkowe zasady regulaminu giełdy w związku z COVID-19 <img src="./src/assets/img/pdficon.png"></span>
+                        </a>
+                    </li>
+                    
+                </ul>
+
             </div>
         </div>
 
