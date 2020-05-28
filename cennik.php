@@ -20,7 +20,7 @@
                     <!--   <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
                 </table>
-                <br>Bezpłatna sprzedaż produktów rolnych przez rolników.
+                <br>Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłat targowych.
                 <br><br>Parking dla klientów Giełdy Wschód jest bezpłatny.
             </div>
             
