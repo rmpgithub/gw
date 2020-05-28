@@ -17,7 +17,7 @@
 
 				-sprzedaż płodów rolnych, maszyn rolniczych, giełda samochodowa, sprzedaż odzieży obuwia, tekstyliów, środków do produkcji rolnej, aartykułów ogrodniczych, szkółkarskich i wielu, wielu innych.<br><br>
 
-				Bezpłatna sprzedaż produktów rolnych przez rolników.<br><br>
+				Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłat targowych.<br><br>
 
 				Ambicją Organizatora jest aby w krótkim czasie Giełda Wschód była wiodącą giełdą w południowo-wschodniej Polsce. <br><br>
             </div>
