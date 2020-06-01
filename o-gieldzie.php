@@ -11,7 +11,7 @@
 
 				Teren na którym od wielu lat, co roku odbywają się Agro Targi Wschód. Powierzchnia giełdy to ponad 20 ha.<br><br>
 
-				Giełda dla handlujących czynna będzie w godzinach 4.00-15.00, dla kupujących w godzinach 6.00-14.00.<br><br>
+				Giełda dla handlujących czynna będzie w godzinach 5.00-15.00, dla kupujących w godzinach 7.00-14.00.<br><br>
 
 				Profil giełdy:<br><br>
 

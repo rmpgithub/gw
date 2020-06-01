@@ -8,7 +8,7 @@
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-12">
-                W dniach 30 maja na terenie Giełdy Wschód obowiązują następujące opłaty:<br><br>
+                Na terenie Giełdy Wschód obowiązują następujące opłaty:<br><br>
             </div>
             <div class="col-12">
 
@@ -16,7 +16,11 @@
                    <thead>
                       <tr> <th> L.p. <th> <th> Cena PLN
                    <tbody>
-                      <tr> <th> 1 <td> Stoisko- moduł o szerokości 6 m <td> 20,00
+                      <tr> <th> 1 <td> Stoisko- moduł o szerokości 6 m <td> 40,00
+                      <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00
+                      <tr> <th> 3 <td> Sprzedaż samochodu <td> 20,00
+                      <tr> <th> 4 <td> Sprzedaż samochodu <td> 10,00
+                      <tr> <th> 5 <td> Sprzedaż samochodu <td> 10,00  
                     <!--   <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
                 </table>
