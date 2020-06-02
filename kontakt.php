@@ -36,7 +36,7 @@
     <div class="row no-padding">
         <div class="col p-0">
             <div class="map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8641.851778596365!2d22.812340152750565!3d49.91310949435331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDnCsDU0JzQ3LjAiTiAyMsKwNDknMTAuNyJF!5e0!3m2!1spl!2spl!4v1510155836900" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2569.273947253427!2d22.818527315711982!3d49.91243297940482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6f4c49a3fa080dae!2zR0lFxYFEQSBXU0NIw5NE!5e0!3m2!1spl!2spl!4v1591083537554!5m2!1spl!2spl" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
