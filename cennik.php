@@ -19,8 +19,8 @@
                       <tr> <th> 1 <td> Stoisko- moduł o szerokości 6 m <td> 40,00
                       <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00
                       <tr> <th> 3 <td> Sprzedaż samochodu <td> 20,00
-                      <tr> <th> 4 <td> Sprzedaż samochodu <td> 10,00
-                      <tr> <th> 5 <td> Sprzedaż samochodu <td> 10,00  
+                      <tr> <th> 4 <td> Sprzedaż przyczepy, motocykla <td> 10,00
+                      <tr> <th> 5 <td> Opłata za sprzedaż z wózków <td> 10,00  
                     <!--   <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
                 </table>
