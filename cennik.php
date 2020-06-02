@@ -26,7 +26,7 @@
                 </table>
                 <br>Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłat targowych.
                 <br><br>Parking dla klientów Giełdy Wschód jest bezpłatny.
-                <br><br>Informację dotyczące przetargu miejsc handlowych  na terenie Giełdy Wschód udostępniane będą na bieżąco na stronie internetowej oraz na Facebooku.
+                <br><br>W miesiącu czerwcu nie będzie rezerwowanych miejsc handlowych na terenie Giełdy Wschód. Wjazd na giełdę odbywać się będzie według kolejności przyjazdu Handlujących przy wjeździe nr. 1. 
  
             </div>
             
