@@ -21,8 +21,8 @@
                 <p>
                     <b>Biuro Giełda Wschód</b><br>
                     <b>Skołoszów, ul. Przemyska 37, 37-550 Radymno</b><br>
-                    Tel. <b>+48 606 418 785</b><br>
-                    Tel. <b>+48 607 088 374</b><br>
+                    Tel. <b>+48 604 750 443</b><br>
+                    <!-- Tel. <b>+48 607 088 374</b><br> -->
                     <!-- Tel. <b>+48 502 026 753</b><br> -->
                     <b><a href="mailto:biuro@gieldawschod.pl"> e-mail: biuro@gieldawschod.pl</a></b>
              
