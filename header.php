@@ -119,9 +119,9 @@
                             <li>
                                 <a href="o-gieldzie.php">O GIEŁDZIE</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="pismo-do-wojtow.php">PISMO DO WÓJTÓW</a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="galeria.php">GALERIA</a>
                             </li>
