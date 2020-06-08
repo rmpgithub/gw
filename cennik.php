@@ -22,13 +22,14 @@
                       <tr> <th> 4 <td> Sprzedaż przyczepy, motocykla <td> 10,00
                       <tr> <th> 5 <td> Opłata za sprzedaż z wózków <td> 10,00  
                       <tr> <th> 6 <td> Catering- samochód <td> 100,00
-                      <tr> <th> 7 <td> Catering- samochód z przyczepą <td> 150,00  
+                      <!-- <tr> <th> 7 <td> Catering- samochód z przyczepą <td> 150,00   -->
                     <!--   <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
                 </table>
-                <br>Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłat targowych.
-                <br><br>Parking dla klientów Giełdy Wschód jest bezpłatny.
-                <br><br>W najbliższym czasie nie będzie możliwości rezerwowania miejsc handlowych na terenie Giełdy Wschód. Wjazd na giełdę odbywać się będzie według kolejności przyjazdu Handlujących przy wjeździe nr. 1. Miejsca handlowe zostaną wskazane przez obsługę giełdy zgodnie z kolejnością stoisk. O zmianie formy wjazdu na teren Giełdy Wschód poinformujemy Państwa na trzy tygodnie przed planowanymi zmianami.
+                <br>Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłaty wjazdowej. Ilość miejsc ograniczona.
+                <br><br>Parking dla klientów Giełdy Wschód wynosi 5zł.
+                <br><br>Wjazd na giełdę odbywać się będzie według kolejności przyjazdu Handlujących przy wjeździe nr. 1. Miejsca handlowe zostaną wskazane przez obsługę giełdy zgodnie z kolejnością stoisk. O zmianie formy wjazdu na teren Giełdy Wschód poinformujemy Państwa na 7 dni przed zmianą na stronie internetowej  lub w czasie pobierania opłaty targowej.
+                <br><br> Ilość miejsc przeznaczonych pod gastronomię jest ograniczona- decyduje Organizator- zamiar przyjazdu proszę zgłosić telefonicznie. Organizator nie gwarantuje podłączenia do prądu.
  
             </div>
             
