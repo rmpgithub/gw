@@ -27,7 +27,7 @@
                      
                 </table>
                 <br>Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłaty wjazdowej. Ilość miejsc ograniczona.
-                <br><br>Parking dla klientów Giełdy Wschód wynosi 5zł.
+                <!-- <br><br>Parking dla klientów Giełdy Wschód wynosi 5zł. -->
                 <br><br>Wjazd na giełdę odbywać się będzie według kolejności przyjazdu Handlujących przy wjeździe nr. 1. Miejsca handlowe zostaną wskazane przez obsługę giełdy zgodnie z kolejnością stoisk. O zmianie formy wjazdu na teren Giełdy Wschód poinformujemy Państwa na 7 dni przed zmianą na stronie internetowej  lub w czasie pobierania opłaty targowej.
                 <br><br> Ilość miejsc przeznaczonych pod gastronomię jest ograniczona- decyduje Organizator- zamiar przyjazdu proszę zgłosić telefonicznie. Organizator nie gwarantuje podłączenia do prądu.
  
