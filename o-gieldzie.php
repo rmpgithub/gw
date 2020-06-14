@@ -17,7 +17,7 @@
 
 				- giełda samochodowa, sprzedaż maszyn rolniczych, budowlanych, sprzedaż odzieży obuwia, tekstyliów, środków do produkcji rolnej, artykułów ogrodniczych, szkółkarskich, sprzedaż płodów rolnych i wielu innych.<br><br>
 
-				Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłat wjazdowej.<br><br>
+				<!-- Rolnicy mogą sprzedawać produkty wytworzone w gospodarstwie rolnym bez opłat wjazdowej.<br><br> -->
 
 				 
             </div>
