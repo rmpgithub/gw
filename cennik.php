@@ -16,12 +16,14 @@
                    <thead>
                       <tr> <th> L.p. <th> <th> Cena PLN
                    <tbody>
-                      <tr> <th> 1 <td> Stoisko - moduł o szerokości 6mx6m <td> 40,00
-                      <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00
-                      <tr> <th> 3 <td> Sprzedaż samochodu <td> 20,00
-                      <tr> <th> 4 <td> Sprzedaż przyczepy, motocykla <td> 10,00
+                      <tr> <th> 1 <td> Metr bieżący stoiska handlowego <td> 10,00
+                      <tr> <th> 2 <td> Sprzedaż samochodu <td> 20,00
+                      <tr> <th> 3 <td> Sprzedaż przyczepy, motocykla <td> 10,00
+                      <tr> <th> 4 <td> Opłata za stoisko handlowe dla posiadaczy rezerwacji <td> 30,00
                       <tr> <th> 5 <td> Opłata za sprzedaż z wózków <td> 40,00  
                       <tr> <th> 6 <td> Gastronomia - samochód <td> 200,00
+                      <tr> <th> 7 <td> Rezerwacja stoiska handlowego 6mx6m na miesiąc <td> 75,00  
+                      <tr> <th> 8 <td> Opłata za sprzątanie stoiska handlowego w przypadku nieprzestrzegania regulaminu <td> 10,00  
                       <!-- <tr> <th> 7 <td> Catering- lody <td> 250,00 -->
                     <!--   <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
