@@ -4,11 +4,42 @@
 
 <div class="container gallery gallery-index">
 			
+			
 			<div class="row">
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/30.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/30.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/31.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/31.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/32.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/32.JPG" alt=""></a></div>
+			</div>
+
+			<div class="row">
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/33.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/33.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/34.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/34.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/35.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/35.JPG" alt=""></a></div>
+			</div>
+
+			<div class="row">
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/36.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/36.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/37.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/37.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/38.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/38.JPG" alt=""></a></div>
+			</div>
+
+			<div class="row">
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/39.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/39.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/40.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/40.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/41.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/41.JPG" alt=""></a></div>
+			</div>
+
+			<!-- <div class="row">
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/42.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/42.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/43.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/43.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/44.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/44.JPG" alt=""></a></div>
+			</div> -->
+			
+			<!-- <div class="row">
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/1.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/1.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/3.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/3.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/17.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/17.JPG" alt=""></a></div>
-			</div>
+			</div> -->
 
 			<div class="row">
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/6.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/6.JPG" alt=""></a></div>
@@ -33,7 +64,7 @@
 			<div class="row">
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/16.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/16.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/29.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/29.JPG" alt=""></a></div>
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/18.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/18.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/28.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/28.JPG" alt=""></a></div>
 				
 			</div>
 
@@ -57,12 +88,7 @@
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/27.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/27.JPG" alt=""></a></div>
 				
 			</div>
-			<div class="row">
-				
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/28.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/28.JPG" alt=""></a></div>
-				
-				
-			</div>
+			
 
 			
 
