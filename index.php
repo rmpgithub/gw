@@ -1,6 +1,7 @@
 <?php require_once('header.php') ?>
 
-
+    <div class="dla_firm">Firmy zainteresowane obsługą gastronomiczną, cateringiem na zasadach wyłączności Giełdy Wschód proszone są o kontakt z organizatorem Stanisławem Sawą telefonicznie pod nr 604 750 443
+    </div>
 <!-- <div class="container gallery gallery-index">
             
             
