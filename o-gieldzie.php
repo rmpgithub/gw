@@ -9,7 +9,7 @@
             <div class="col-12">
                 Zapraszamy Handlujących na giełdę towarowo-samochodową „Giełda Wschód”, która odbywa się w każdą sobotę w miejscowości Skołoszów, ul Przemyska 37, gmina Radymno, powiat jarosławski, przy węźle" Przemyśl" autostrady A4.<br><br>
 
-				Teren na którym odbywają się Agro Targi Wschód. Powierzchnia giełdy <!-- to ponad 20 ha --> z możliwością powiększenia.<br><br>
+				<!-- Teren na którym odbywają się Agro Targi Wschód. Powierzchnia giełdy to ponad 20 ha z możliwością powiększenia.<br><br> -->
 
 				Giełda czynna będzie w godzinach 5:00-14:00.<br><br>
 
