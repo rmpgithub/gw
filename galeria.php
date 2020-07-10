@@ -42,7 +42,8 @@
 			</div>
 			
 			<div class="row">
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/63.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/63.JPG" alt=""></a></div>
+				<!-- <div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/63.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/63.JPG" alt=""></a></div> -->
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/21.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/21.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/64.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/64.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/65.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/65.JPG" alt=""></a></div>
 			</div>
@@ -142,7 +143,8 @@
 
 			<div class="row">
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/36.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/36.JPG" alt=""></a></div>
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/35.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/35.JPG" alt=""></a></div>
+				<!-- <div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/35.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/35.JPG" alt=""></a></div> -->
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/28.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/28.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/39.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/39.JPG" alt=""></a></div>
 				
 			</div>
@@ -160,24 +162,25 @@
 			<div class="row">
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/10.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/10.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/11.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/11.JPG" alt=""></a></div>
-			    <div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/16.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/16.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/20.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/20.JPG" alt=""></a></div>
+			    <!-- <div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/16.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/16.JPG" alt=""></a></div> -->
 			</div>
 
 			
 
 			<div class="row">
 				
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/29.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/29.JPG" alt=""></a></div>
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/28.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/28.JPG" alt=""></a></div>
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/20.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/20.JPG" alt=""></a></div>
+				<!-- <div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/29.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/29.JPG" alt=""></a></div> -->
+				
+				
 			</div>
 
 			<div class="row">
 				
 				
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/21.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/21.JPG" alt=""></a></div>
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/25.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/25.JPG" alt=""></a></div>
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/26.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/26.JPG" alt=""></a></div>
+				
+				<!-- <div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/25.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/25.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/26.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/26.JPG" alt=""></a></div> -->
 			</div>
 
 			
