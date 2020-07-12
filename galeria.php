@@ -6,6 +6,11 @@
 			
 
 			<div class="row">
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/107.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/107.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/108.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/108.JPG" alt=""></a></div>
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/32.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/32.JPG" alt=""></a></div>
+			</div>
+			<div class="row">
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/45.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/45.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/46.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/46.JPG" alt=""></a></div>
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/47.JPG"><img class="Thumbnail" src="./src/assets/img/galeria/47.JPG" alt=""></a></div>
