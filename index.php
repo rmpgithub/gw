@@ -1,12 +1,12 @@
 <?php require_once('header.php') ?>
 
-    <div class="dla_firm">Organizator informuje, że w czasie trwania Giełdy Wschód uruchamiane są wydarzenia takie jak:<br>
-- pchli targ (giełda staroci),<br>
-- tragi żywności tradycyjne produkowanej bezpośrednio przez rolnika, promocji gospodarstw agroturystycznych województwa podkarpackiego,<br>
-- aukcja maszyn używanych.<br>
-Zainteresowane osoby zapraszamy do kontaktu z Organizatorem.<br>
-Firmy wystawiające się na Giełdzie Wschód zainteresowane reklamą na stronie www oraz na Facebooku Giełdy Wschód zapraszamy do kontaktu z Organizatorem.<br>
-    </div>
+    <!-- <div class="dla_firm">Organizator informuje, że w czasie trwania Giełdy Wschód uruchamiane są wydarzenia takie jak:<br>
+    - pchli targ (giełda staroci),<br>
+    - tragi żywności tradycyjne produkowanej bezpośrednio przez rolnika, promocji gospodarstw agroturystycznych województwa podkarpackiego,<br>
+    - aukcja maszyn używanych.<br>
+    Zainteresowane osoby zapraszamy do kontaktu z Organizatorem.<br>
+    Firmy wystawiające się na Giełdzie Wschód zainteresowane reklamą na stronie www oraz na Facebooku Giełdy Wschód zapraszamy do kontaktu z Organizatorem.<br>
+    </div> -->
 <!-- <div class="container gallery gallery-index">
             
             
@@ -50,32 +50,35 @@ Firmy wystawiające się na Giełdzie Wschód zainteresowane reklamą na stronie
 
 
 
-<!--<section class="container news-index">
+<section class="container news-index">
     <div class="row mb-3 mb-lg-0">
         <div class="col-12 col-lg-3"></div>
         <div class="col-12 col-lg-6">
             <h1 class="heading-1 text-center">Aktualności</h1>
             <hr class="hr-heading">
         </div>
-        <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
+        <!-- <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
             <a href="aktualnosci.php" class="button-outline">ZOBACZ WSZYSTKIE <i class="fa fa-chevron-right ml-2"></i></a>
-        </div>
+        </div> -->
     </div>
 
     <div class="row">
-        <div class="col-12 col-lg-4">
+        <div class="col-12 col-lg-6">
             <div class="item">
-                <div class="thumb">
+                <!-- <div class="thumb">
                     <img src="./src/assets/img/1.jpg" alt="1">
-                </div>
-                <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="aktualnosc-pierwsza.php">Artykuł 1</a></h2>
-                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur at
-                    consequatur dolores dolorum eaque ipsum qui quidem quos recusandae tempore.</p>
-                <a href="aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
+                </div> -->
+                <!-- <p class="date">10-05-2020</p>
+                <h2 class="heading-2"><a href="aktualnosc-pierwsza.php">Artykuł 1</a></h2> -->
+                <p class="text">Organizator informuje, że w czasie trwania Giełdy Wschód uruchamiane są wydarzenia takie jak:<br>
+- pchli targ (giełda staroci),<br>
+- tragi żywności tradycyjne produkowanej bezpośrednio przez rolnika, promocji gospodarstw agroturystycznych województwa podkarpackiego,<br>
+- aukcja maszyn używanych.<br>
+Zainteresowane osoby zapraszamy do kontaktu z Organizatorem.</p>
+                <!-- <a href="aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a> -->
             </div>
         </div>
-        <div class="col-12 col-lg-4">
+        <!-- <div class="col-12 col-lg-4">
             <div class="item">
                 <div class="thumb">
                     <img src="./src/assets/img/1.jpg" alt="1">
@@ -86,21 +89,20 @@ Firmy wystawiające się na Giełdzie Wschód zainteresowane reklamą na stronie
                     consequatur dolores dolorum eaque ipsum qui quidem quos recusandae tempore.</p>
                 <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
             </div>
-        </div>
-        <div class="col-12 col-lg-4">
+        </div> -->
+        <div class="col-12 col-lg-6">
             <div class="item">
-                <div class="thumb">
+                <!-- <div class="thumb">
                     <img src="./src/assets/img/1.jpg" alt="1">
-                </div>
-                <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="#">Artykuł 1</a></h2>
-                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur at
-                    consequatur dolores dolorum eaque ipsum qui quidem quos recusandae tempore.</p>
-                <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
+                </div> -->
+                <!-- <p class="date">10-05-2020</p>
+                <h2 class="heading-2"><a href="#">Artykuł 1</a></h2> -->
+                <p class="text">Firmy wystawiające się na Giełdzie Wschód zainteresowane reklamą na stronie www oraz na Facebooku Giełdy Wschód zapraszamy do kontaktu z Organizatorem.</p>
+                <!-- <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a> -->
             </div>
         </div>
     </div>
-</section>  -->
+</section>
 
 
 

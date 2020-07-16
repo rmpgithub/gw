@@ -174,13 +174,13 @@
   display: flex;
 }
 .news-index {
-  margin-bottom: 150px;
+  margin-bottom: 0px;
 }
 .news-index .heading-1 {
   font-weight: bold;
 }
 .news-index .item {
-  margin-bottom: 25px;
+  margin-bottom: 0px;
 }
 .news-index .item .thumb {
   margin-bottom: 15px;
