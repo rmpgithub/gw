@@ -23,7 +23,7 @@
                       <tr> <th> 4 <td> Sprzedaż samochodu <td> 20,00
                       <tr> <th> 5 <td> Sprzedaż przyczepy, motocykla <td> 10,00
                       <tr> <th> 6 <td> Opłata za sprzedaż z wózków <td> 10,00  
-                      <tr> <th> 7 <td> Gastronomia do uzgodnienia z Organizatorem  <td>  
+                      <tr> <th> 7 <td> Gastronomia do uzgodnienia z Organizatorem  <td>  200,00
                       <tr> <th> 8 <td> Rękodzieło, antyki, wyprzedaż garażowa, starocia 1m^2 w wyznaczonej przez Organizatora strefie<td> 1,00 
                       <tr> <th> 9 <td>Opłata za sprzątanie stoiska handlowego w przypadku nieprzestrzegania regulaminu <td>  10,00  
                       <!-- <tr> <th> 7 <td> Catering- lody <td> 250,00 -->
