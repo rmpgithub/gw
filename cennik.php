@@ -26,10 +26,13 @@
                       <tr> <th> 7 <td> Gastronomia do uzgodnienia z Organizatorem  <td>  200,00
                       <tr> <th> 8 <td> Rękodzieło, antyki, wyprzedaż garażowa, starocia 1m^2 w wyznaczonej przez Organizatora strefie<td> 1,00 
                       <tr> <th> 9 <td>Opłata za sprzątanie stoiska handlowego w przypadku nieprzestrzegania regulaminu <td>  10,00  
+                      <tr> <th> 10 <td>Rolnicy handlujący warzywami, resztki organiczne zabierają ze sobą bezwzględnie. Nie przestrzeganie tego przepisu spowoduje nie wpuszczenie na teren giełdy. <td>     
                       <!-- <tr> <th> 7 <td> Catering- lody <td> 250,00 -->
                     <!--   <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
                 </table>
+
+
                 
                 <br><br>Istnieje możliwość rezerwacji miejsca handlowego do końca listopada 2020r.
 
