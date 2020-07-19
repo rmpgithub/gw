@@ -71,9 +71,11 @@
                 <!-- <p class="date">10-05-2020</p>
                 <h2 class="heading-2"><a href="aktualnosc-pierwsza.php">Artykuł 1</a></h2> -->
                 <p class="text">Organizator informuje, że w czasie trwania Giełdy Wschód uruchamiane są wydarzenia takie jak:<br>
-- giełda staroci (pchli targ),<br>
-- tragi żywności produkowanej przez rolnika i gospodarstw agroturystycznych,<br>
+- giełda staroci (pchli targ) - zapraszamy przedstawicieli znikających zawodów takich jak kowalstwo, garncarstwo itd.,<br>
+- trag żywności produkowanej przez rolnika,<br>
+- targ gospodarstw agroturystycznych i zajazdów,<br>
 - aukcja maszyn używanych.<br>
+Na terenie giełdy samochodowej rusza sprzedaż samochodów amerykańskich.<br>
 Zainteresowane osoby zapraszamy do kontaktu z Organizatorem.</p>
                 <!-- <a href="aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a> -->
             </div>
