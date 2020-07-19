@@ -6,7 +6,7 @@
 			
 			
 			<div class="row">
-				<div class="col-12"><a href="./src/assets/pdf/Plakat.png"><img class="Thumbnail" src="./src/assets/pdf/Plakat.png" alt=""></a></div>	
+				<div class="col-12"><a href="./src/assets/pdf/Plakat.jpg"><img class="Thumbnail" src="./src/assets/pdf/Plakat.jpg" alt=""></a></div>	
 			</div>
 
 			
