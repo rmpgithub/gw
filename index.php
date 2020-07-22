@@ -70,7 +70,7 @@
                 </div> -->
                 <!-- <p class="date">10-05-2020</p>
                 <h2 class="heading-2"><a href="aktualnosc-pierwsza.php">Artykuł 1</a></h2> -->
-                <p class="text">Giełda Wschód to również:<br>
+                <p class="text">Giełda Wschód to:<br>
                 - giełda staroci (pchli targ),<br>
                 - aukcja maszyn używanych,<br>
                 - sprzedaż samochodów amerykańskich,<br>
