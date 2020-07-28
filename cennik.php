@@ -20,13 +20,13 @@
                       <tr> <th> 2 <td> Opłata za stoisko handlowe dla posiadaczy rezerwacji <td> 30,00
                       
                       <tr> <th> 3 <td> Metr bieżący poza stoiskiem handlowym <td> 10,00
-                      <tr> <th> 4 <td> Sprzedaż samochodu <td> 20,00
+                      <tr> <th> 4 <td> Sprzedaż samochodu <td> 10,00
                       <tr> <th> 5 <td> Sprzedaż przyczepy, motocykla <td> 10,00
                       <tr> <th> 6 <td> Opłata za sprzedaż z wózków <td> 10,00  
                       <tr> <th> 7 <td> Gastronomia do uzgodnienia z Organizatorem  <td>  200,00
-                      <tr> <th> 8 <td> Rękodzieło, antyki, wyprzedaż garażowa, starocia 1m^2 w wyznaczonej przez Organizatora strefie<td> 1,00 
+                      <tr> <th> 8 <td> Rękodzieło, antyki, wyprzedaż garażowa, starocia w wyznaczonej przez Organizatora strefie - jeden metr kwadratowy<td> 1,00 
                       <tr> <th> 9 <td>Opłata za sprzątanie stoiska handlowego w przypadku nieprzestrzegania regulaminu <td>  10,00  
-                      <tr> <th> 10 <td>Rolnicy handlujący warzywami, resztki organiczne zabierają ze sobą bezwzględnie. Nie przestrzeganie tego przepisu spowoduje nie wpuszczenie na teren giełdy. <td>     
+                      <tr> <th> 10 <td>Handlujący zbierają po sobie śmieci bezwzględnie. Nie przestrzeganie tego przepisu spowoduje nie wpuszczenie na teren giełdy. <td>     
                       <!-- <tr> <th> 7 <td> Catering- lody <td> 250,00 -->
                     <!--   <tr> <th> 2 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
