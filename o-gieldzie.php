@@ -8,7 +8,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-12">
                 Zapraszamy Handlujących na giełdę rolno-towarową, która odbywa się w każdą sobotę w miejscowości Skołoszów, ul Przemyska 37, gmina Radymno, powiat jarosławski, przy węźle" Przemyśl" autostrady A4 w godzinach 5:00- 14:00.<br><br>
-Sprzedaż żywności bezpośrednio od rolnika, maszyn rolniczych, budowlanych, samochodów, odzieży, obuwia, tekstyliów, artykułów ogrodniczych, szkółkarskich, wyprzedaż garażowa i wielu innych.<br><br>
+Sprzedaż żywności bezpośrednio od rolnika, maszyn rolniczych, budowlanych, samochodów, odzieży, obuwia, tekstyliów, artykułów ogrodniczych, szkółkarskich, wyprzedaż garażowa, giełda staroci (pchli targ), aukcja maszyn używanych, sprzedaż samochodów amerykańskich. <br><br>
 
 				<!-- Teren na którym odbywają się Agro Targi Wschód. Powierzchnia giełdy to ponad 20 ha z możliwością powiększenia.<br><br> -->
 
