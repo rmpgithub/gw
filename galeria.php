@@ -168,7 +168,7 @@
 				
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/170.jpg"><img class="Thumbnail" src="./src/assets/img/galeria/170.jpg" alt=""></a></div>
 
-				
+				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/171.jpg"><img class="Thumbnail" src="./src/assets/img/galeria/171.jpg" alt=""></a></div>
 			</div>
 
 			<div class="row">
@@ -243,7 +243,7 @@
 
 				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/8.jpg"><img class="Thumbnail" src="./src/assets/img/galeria/8.jpg" alt=""></a></div>
 
-				<div class="col-xs-12-col-sm-6 col-md-4"><a href="./src/assets/img/galeria/171.jpg"><img class="Thumbnail" src="./src/assets/img/galeria/171.jpg" alt=""></a></div>
+				
 				
 			</div>	
 
