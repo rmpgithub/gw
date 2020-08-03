@@ -74,7 +74,7 @@
                 - giełda staroci (pchli targ),<br>
                 - aukcja maszyn używanych,<br>
                 - sprzedaż samochodów amerykańskich,<br>
-                - przedstawiciele zanikających zawodów.<br>
+                
                 </p>
                 <!-- <a href="aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a> -->
             </div>
