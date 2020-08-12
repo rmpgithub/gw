@@ -1,12 +1,7 @@
 <?php require_once('header.php') ?>
-
-    <!-- <div class="dla_firm">Organizator informuje, że w czasie trwania Giełdy Wschód uruchamiane są wydarzenia takie jak:<br>
-    - pchli targ (giełda staroci),<br>
-    - tragi żywności tradycyjne produkowanej bezpośrednio przez rolnika, promocji gospodarstw agroturystycznych województwa podkarpackiego,<br>
-    - aukcja maszyn używanych.<br>
-    Zainteresowane osoby zapraszamy do kontaktu z Organizatorem.<br>
-    Firmy wystawiające się na Giełdzie Wschód zainteresowane reklamą na stronie www oraz na Facebooku Giełdy Wschód zapraszamy do kontaktu z Organizatorem.<br>
-    </div> -->
+<div class="dla_firm">Organizator przypomina, w dniu 15 Sierpnia 2020 Giełda Wschód nie odbędzie się ze względu na święto państwowe.<br>
+    
+    </div>
 <!-- <div class="container gallery gallery-index">
             
             
