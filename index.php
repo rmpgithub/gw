@@ -1,7 +1,7 @@
 <?php require_once('header.php') ?>
-<!-- <div class="dla_firm">Organizator przypomina, w dniu 15 Sierpnia 2020 Giełda Wschód nie odbędzie się ze względu na święto państwowe.<br> -->
+<!-- <div class="dla_firm">Organizator przypomina, w dniu 15 Sierpnia 2020 Giełda Wschód nie odbędzie się ze względu na święto państwowe.<br>
     
-    </div>
+    </div> -->
 <!-- <div class="container gallery gallery-index">
             
             
