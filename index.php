@@ -93,7 +93,7 @@
                 </div> -->
                 <!-- <p class="date">10-05-2020</p>
                 <h2 class="heading-2"><a href="#">Artykuł 1</a></h2> -->
-                <p class="text">Firmy wystawiające się na Giełdzie Wschód zainteresowane reklamą na stronie www oraz na Facebooku Giełdy Wschód zapraszamy do kontaktu z Organizatorem.</p>
+                <p class="text">Handel na Giełdzie Wschód możliwy jest bez wcześniejszej rezerwacji miejsca.</p>
                 <!-- <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a> -->
             </div>
         </div>
