@@ -6,7 +6,7 @@ NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA,
 Lista obostrzeń dostępna na stronie:
 https://www.gov.pl/web/koronawirus<br>
  
-Zgodnie z ostatnim wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
+Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
     
     </div>
 <!-- <div class="container gallery gallery-index">
