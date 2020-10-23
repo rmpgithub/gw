@@ -1,7 +1,14 @@
 <?php require_once('header.php') ?>
-<!-- <div class="dla_firm">Organizator przypomina, w dniu 15 Sierpnia 2020 Giełda Wschód nie odbędzie się ze względu na święto państwowe.<br>
+<div class="dla_firm">PRZYPOMINAMY!<br>
+
+NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br>
+24 października Giełda Wschód czynna będzie od godziny 5.00 z zachowaniem wszelkich obostrzeń i zaleceń dotyczących reżimu sanitarnego. Zarówno kupujących jak i handlujących prosimy o zapoznanie się z aktualnymi obostrzeniami i bezwzględne stosowanie się do zaleceń reżimu sanitarnego.
+Lista obostrzeń dostępna na stronie:
+https://www.gov.pl/web/koronawirus<br>
+ 
+Zgodnie z ostatnim wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
     
-    </div> -->
+    </div>
 <!-- <div class="container gallery gallery-index">
             
             
