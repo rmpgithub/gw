@@ -2,7 +2,7 @@
 <div class="dla_firm">PRZYPOMINAMY!<br>
 
 NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br>
-24 października Giełda Wschód czynna będzie od godziny 5.00 z zachowaniem wszelkich obostrzeń i zaleceń dotyczących reżimu sanitarnego. Zarówno kupujących jak i handlujących prosimy o zapoznanie się z aktualnymi obostrzeniami i bezwzględne stosowanie się do zaleceń reżimu sanitarnego.
+Giełda Wschód jest czynna od godziny 5.00 z zachowaniem wszelkich obostrzeń i zaleceń dotyczących reżimu sanitarnego. Zarówno kupujących jak i handlujących prosimy o zapoznanie się z aktualnymi obostrzeniami i bezwzględne stosowanie się do zaleceń reżimu sanitarnego.
 Lista obostrzeń dostępna na stronie:
 https://www.gov.pl/web/koronawirus<br>
  
