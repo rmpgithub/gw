@@ -2,8 +2,8 @@
 
 <div class="gielda-swiateczna">Giełda Świąteczna, Jarmark Świąteczny<br><br>
 
-	Zapraszamy od 5-12-2020 do 24-12-2020 w każdy dzień tygodnia w godzinnach 9-22.<br>
-	Przyjmujemy zapisy dla handuljących, liczba miejsc ograniczona, zgłoszenia przyjmujemy telefonicznie lub przez e-mail.<br>
+	Zapraszamy od 5-12-2020 do 24-12-2020 w każdy dzień tygodnia w godzinach 9-22.<br>
+	Przyjmujemy zapisy dla handlujących, liczba miejsc ograniczona, zgłoszenia przyjmujemy telefonicznie lub przez e-mail.<br>
 	Opłata 60 zł za 6m x 6m w sobotę i niedzielę,<br>
 	Opłata 10 zł za 6m x 6m od poniedziałku do piątku.<br>
  
