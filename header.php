@@ -119,9 +119,9 @@
                             <li>
                                 <a href="o-gieldzie.php">O GIEŁDZIE</a>
                             </li>
-                            <!-- <li>
-                                <a href="pismo-do-wojtow.php">PISMO DO WÓJTÓW</a>
-                            </li> -->
+                            <li>
+                                <a href="gielda-swiateczna.php">GIEŁDA ŚWIĄTECZNA / JARMARK ŚWIĄTECZNY</a>
+                            </li>
                             <li>
                                 <a href="galeria.php">GALERIA</a>
                             </li>
@@ -145,7 +145,7 @@
                                  <a href="plan-gieldy.php">PLAN GIEŁDY</a>
                              </li>
                             <li>
-                                <a href="kontakt.php">DOJAZD</a>
+                                <a href="kontakt.php">KONTAKT/DOJAZD</a>
                             </li>
                         </ul>
                     </li>
