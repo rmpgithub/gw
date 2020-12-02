@@ -34,7 +34,7 @@
 
 
                 
-                <br><br>Istnieje możliwość rezerwacji miejsca handlowego do końca listopada 2021r.
+                <br><br>Istnieje możliwość rezerwacji miejsca handlowego do końca listopada 2020r.
 
 
                 <br><br>Wjazd na giełdę odbywać się będzie według kolejności przyjazdu Handlujących przy wjeździe nr. 1. Miejsca handlowe zostaną wskazane przez obsługę giełdy zgodnie z kolejnością stoisk. O zmianie formy wjazdu na teren Giełdy Wschód poinformujemy Państwa na 7 dni przed zmianą na stronie internetowej  lub w czasie pobierania opłaty targowej.

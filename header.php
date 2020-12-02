@@ -119,9 +119,9 @@
                             <li>
                                 <a href="o-gieldzie.php">O GIEŁDZIE</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="gielda-swiateczna.php">GIEŁDA ŚWIĄTECZNA / JARMARK ŚWIĄTECZNY</a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="galeria.php">GALERIA</a>
                             </li>
