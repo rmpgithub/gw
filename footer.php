@@ -46,7 +46,7 @@
             </div>
         </div> -->
         <div class="row copyrights d-flex justify-content-center justify-content-lg-between">
-            <p>Copyright © 2020 | GIEŁDA WSCHÓD, SAWA EXPO - Wszystkie prawa zastrzeżone</p>
+            <p>Copyright © 2021 | GIEŁDA WSCHÓD, SAWA EXPO - Wszystkie prawa zastrzeżone</p>
             <p>Realizacja: SAWA EXPO</p>
         </div>
     </div>
