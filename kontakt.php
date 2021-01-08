@@ -3,7 +3,7 @@
 
 <div class="container contact-page">
     <div class="row box">
-        <div class="col-xs-12 col-sm-6 no-padding">
+        <!-- <div class="col-xs-12 col-sm-6 no-padding">
             <div class="box-contact">
                 <p>
                     <b>Organizator <br>
@@ -14,7 +14,7 @@
 
                 </p>
             </div>
-        </div>
+        </div> -->
 
         <div class="col-xs-12 col-sm-6 no-padding">
             <div class="box-contact" >
