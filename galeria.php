@@ -6,7 +6,7 @@
 
 			<?php
 			$nr = 1;
-			for ($i = 1; $i <= 53; $i++) 
+			for ($i = 1; $i <= 33; $i++) 
 			{
     			
 		    echo '<div class="row">';
