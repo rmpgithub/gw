@@ -88,7 +88,7 @@ Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji
     <div class="row">
         <div class="dla_firm">
             <h2> 
-                Z powodu ogromnych opadów śniegu Giełda Wschód zamknięta do odwołania
+                Giełda Wschód 30.01.2021 r. będzie zamknięta. Zapraszamy od 6.02.2021 r. w każdą sobotę.
 
             </h2>
 <!-- NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br>

@@ -31,7 +31,7 @@ $(document).ready(function () {
 });
 
 // Set the date we're counting down to
-var countDownDate = new Date("SEPTEMBER 6, 2020 05:00:00").getTime();
+var countDownDate = new Date("FEBRUARY 6, 2021 05:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
