@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    <title>Giełda Wschód 2020 </title>
+    <title>Giełda Wschód 2021 </title>
     <!-- test rmpgit -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -55,7 +55,8 @@
             <a href="index.php"><img src="./src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <h3 class="heading-3">W KAŻDĄ SOBOTĘ <br> SKOŁOSZÓW </h3>
+            <!-- <h3 class="heading-3">W KAŻDĄ SOBOTĘ <br> SKOŁOSZÓW </h3> -->
+            <h3 class="heading-3">GIEŁDA ZAMKNIĘTA <br> DO ODWOŁANIA </h3>
             <!-- <small>Pozostało <b id="counter"></b></small> -->
         </div>
         <div class="col-12 col-lg pt-3 pt-md-0">
