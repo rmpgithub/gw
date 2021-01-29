@@ -87,16 +87,16 @@ Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji
 
     <div class="row">
         <div class="dla_firm">
-            <h2> 
+            <!-- <h2> 
                 Giełda Wschód 30.01.2021 r. będzie zamknięta. Zapraszamy od 6.02.2021 r. w każdą sobotę.
 
-            </h2>
-<!-- NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br>
+            </h2> -->
+NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br>
 Giełda Wschód jest czynna od godziny 5.00 z zachowaniem wszelkich obostrzeń i zaleceń dotyczących reżimu sanitarnego. Zarówno kupujących jak i handlujących prosimy o zapoznanie się z aktualnymi obostrzeniami i bezwzględne stosowanie się do zaleceń reżimu sanitarnego.
 Lista obostrzeń dostępna na stronie:
 https://www.gov.pl/web/koronawirus<br>
  
-Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br> -->
+Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
     
         </div>
     </div>    
