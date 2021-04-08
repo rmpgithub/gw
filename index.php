@@ -20,16 +20,13 @@
 
 </div>
  -->
-<!-- <div class="dla_firm">PRZYPOMINAMY!<br>
+<div class="dla_firm">Wiosenna Promocja!<br>
 
-NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br>
-Giełda Wschód jest czynna od godziny 5.00 z zachowaniem wszelkich obostrzeń i zaleceń dotyczących reżimu sanitarnego. Zarówno kupujących jak i handlujących prosimy o zapoznanie się z aktualnymi obostrzeniami i bezwzględne stosowanie się do zaleceń reżimu sanitarnego.
-Lista obostrzeń dostępna na stronie:
-https://www.gov.pl/web/koronawirus<br>
+Organizatora Giełdy Wschód zaprasza handlujących rzeczami używanymi np. z wystawek do prowadzenia działalności handlowej na terenie Giełdy Wschód w miesiącu kwietniu bez opłat targowych. Przed przyjazdem należy zarezerwować miejsce u Organizatora giełdy telefonicznie lub mailowo. Ilość miejsc ograniczona. Tel.: 606418785, 607088374, 604750443
  
-Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
+<br>
     
-    </div> -->
+    </div>
 <!-- <div class="container gallery gallery-index">
             
             
