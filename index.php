@@ -93,8 +93,8 @@ Giełda Wschód jest czynna od godziny 5.00 z zachowaniem wszelkich obostrzeń i
 Lista obostrzeń dostępna na stronie:
 https://www.gov.pl/web/koronawirus<br>
  
-Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
-    
+<!-- Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
+     -->
         </div>
     </div>    
 
