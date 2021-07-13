@@ -20,13 +20,16 @@
 
 </div>
  -->
-    <!-- <div class="dla_firm">Wiosenna Promocja!<br>
+    <div class="dla_firm"> Uwaga!<br>
+       <br>
+        Zapraszamy sprzedających drób, gołębie, konie, króliki, alpaki do handlu na Giełdzie Wschód w każdą sobotę. Posiadamy pozwolenie od Powiatowego Lekarza Weterynarii.<br><br>
 
-        Organizatora Giełdy Wschód zaprasza handlujących rzeczami używanymi np. z wystawek do prowadzenia działalności handlowej na terenie Giełdy Wschód w miesiącu kwietniu bez opłat targowych. Przed przyjazdem należy zarezerwować miejsce u Organizatora giełdy telefonicznie lub mailowo. Ilość miejsc ograniczona. Tel.: 606418785, 607088374, 604750443
+
+Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 604750443, 606418785
          
         <br>
             
-    </div> -->
+    </div>
 <!-- <div class="container gallery gallery-index">
             
             
