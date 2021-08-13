@@ -20,7 +20,17 @@
 
 </div>
  -->
-    <div class="dla_firm"> Uwaga!<br>
+
+<div class="container gallery gallery-index" style="margin:auto; ">
+            
+            
+            <div class="row">
+                <div class="col-12 col-md-10 offset-md-1"><a href="./src/assets/img/plakat/Plakat2021.jpg"><img class="Thumbnail" src="./src/assets/img/plakat/Plakat2021.jpg" alt=""></a></div>  
+            </div>
+
+</div>
+
+   <!--  <div class="dla_firm"> Uwaga!<br>
        <br>
         Zapraszamy sprzedających drób, gołębie, konie, króliki, alpaki do handlu na Giełdzie Wschód w każdą sobotę. Posiadamy pozwolenie od Powiatowego Lekarza Weterynarii.<br><br>
 
@@ -29,7 +39,7 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
          
         <br>
             
-    </div>
+    </div> -->
 <!-- <div class="container gallery gallery-index">
             
             
@@ -92,9 +102,12 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 
             </h2> -->
 <!-- NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br> -->
-Giełda Wschód jest czynna od godziny 5.00 z zachowaniem wszelkich obostrzeń i zaleceń dotyczących reżimu sanitarnego. Zarówno kupujących jak i handlujących prosimy o zapoznanie się z aktualnymi obostrzeniami i bezwzględne stosowanie się do zaleceń reżimu sanitarnego.
-Lista obostrzeń dostępna na stronie:
-https://www.gov.pl/web/koronawirus<br>
+        Zapraszamy sprzedających drób, gołębie, konie, króliki, alpaki do handlu na Giełdzie Wschód w każdą sobotę. Posiadamy pozwolenie od Powiatowego Lekarza Weterynarii.<br><br>
+
+
+Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 604750443, 606418785
+         
+        <br>
  
 <!-- Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
      -->
