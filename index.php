@@ -21,14 +21,14 @@
 </div>
  -->
 
-<div class="container gallery gallery-index" style="margin:auto; ">
+<!-- <div class="container gallery gallery-index" style="margin:auto; ">
             
             
             <div class="row">
                 <div class="col-12 col-md-10 offset-md-1"><a href="./src/assets/img/plakat/Plakat2021.png"><img class="Thumbnail" src="./src/assets/img/plakat/Plakat2021.png" alt=""></a></div>  
             </div>
 
-</div>
+</div> -->
 
    <!--  <div class="dla_firm"> Uwaga!<br>
        <br>
