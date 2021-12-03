@@ -105,7 +105,7 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
         Zapraszamy sprzedających drób, gołębie, konie, króliki, alpaki do handlu na Giełdzie Wschód w każdą sobotę. Posiadamy pozwolenie od Powiatowego Lekarza Weterynarii.<br><br>
 
 
-Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 604750443, 606418785
+Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 607 088 374
          
         <br>
  
