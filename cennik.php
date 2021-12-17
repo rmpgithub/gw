@@ -28,7 +28,7 @@
                       <tr> <th> 8 <td>Opłata za sprzątanie stoiska handlowego w przypadku nieprzestrzegania regulaminu <td>  10,00  
                       <!-- <tr> <th> 9 <td>Handlujący zbierają po sobie śmieci. Nie przestrzeganie tego przepisu spowoduje nie wpuszczenie na teren giełdy. <td>    -->  
                       <!-- <tr> <th> 7 <td> Catering- lody <td> 250,00 -->
-                      <tr> <th> 9 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00
+                      <!-- <tr> <th> 9 <td> Opłata za sprzątanie stoiska handlowego <td> 10,00 -->
                      
                 </table>
 
