@@ -9,7 +9,7 @@
 
     <meta name="facebook-domain-verification" content="k99luxd9aw6er9tvklqdxs6pvgkq34" />
     
-    <meta name="description" content="Giełda Wschód to największa towarowo-samochodowa giełda w Polsce położona bezpośrednio przy skrzyżowaniu drogi krajowej 77 i autostrady A4 (węzeł Przemyśl). Powierzchnia Giełdy Wschód to ponad 50ha. " />
+    <meta name="description" content="Giełda Wschód to największa towarowo-samochodowa giełda w Polsce położona bezpośrednio przy skrzyżowaniu drogi krajowej 77 i autostrady A4 (węzeł Przemyśl). Powierzchnia Giełdy Wschód to ponad 50ha. Bazar w Skołoszowie" />
 
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
