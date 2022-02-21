@@ -102,10 +102,10 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 
             </h2> -->
 <!-- NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br> -->
-        Zapraszamy sprzedających drób, gołębie, konie, króliki, alpaki do handlu na Giełdzie Wschód w każdą sobotę. Posiadamy pozwolenie od Powiatowego Lekarza Weterynarii.<br><br>
+        
 
 
-Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 607 088 374
+Giełda Wschód otwarta jest w piątek, sobotę i niedzielę. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 607 088 374
          
         <br>
  
