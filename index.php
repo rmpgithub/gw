@@ -105,7 +105,7 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
         
 
 
-Giełda Wschód otwarta jest w piątek, sobotę i niedzielę. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 607 088 374
+Giełda Wschód otwarta jest w sobotę. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 607 088 374
          
         <br>
  
