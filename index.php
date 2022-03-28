@@ -105,7 +105,10 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
         
 
 
-Giełda Wschód otwarta jest w sobotę. Zapraszamy handlujących i kupujących. Szczegóły pod numerem tel. 607 088 374
+PROMOCJA!
+Dla mieszkańców powiatów: jarosławskiego, przemyskiego, lubaczowskiego, przeworskiego, leżajskiego zajmujących się handlem na giełdach, bazarach 50% zniżki w rezerwacji miejsc do końca XI.2022r. na Giełdzie Wschód. 
+Szczegół pod numerem: 604750443
+Oferta ważna do odwołania lub do wyczerpania miejsc.
          
         <br>
  
