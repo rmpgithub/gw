@@ -106,9 +106,10 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 
 
 PROMOCJA!
-Dla mieszkańców powiatów: jarosławskiego, przemyskiego, lubaczowskiego, przeworskiego, leżajskiego zajmujących się handlem na giełdach, bazarach 50% zniżki w rezerwacji miejsc do końca XI.2022r. na Giełdzie Wschód. 
+Producenci win z Podkarpacia wystawiają się bez opłat. 
+<!-- Dla mieszkańców powiatów: jarosławskiego, przemyskiego, lubaczowskiego, przeworskiego, leżajskiego zajmujących się handlem na giełdach, bazarach 50% zniżki w rezerwacji miejsc do końca XI.2022r. na Giełdzie Wschód. 
 Szczegół pod numerem: 604750443
-Oferta ważna do odwołania lub do wyczerpania miejsc.
+Oferta ważna do odwołania lub do wyczerpania miejsc. -->
          
         <br>
  
