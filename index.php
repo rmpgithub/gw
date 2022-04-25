@@ -119,7 +119,9 @@ Przypominamy o 50% rabacie dla rezerwujących miejsce handlowe na Giełdzie Wsch
 
 UWAGA!!!<br>
 
-Informujemy, że od 7 maja 2022 roku na Giełdzie Wschód uruchomiony zostanie sektor do sprzedaży samochodów osobowych, ciężarowych, maszyn rolniczych. Handlujący w tym sektorze zwolnieni będą z opłaty targowej do końca 2022 r.
+Informujemy, że od 7 maja 2022 roku na Giełdzie Wschód w każdą sobotę rusza giełda  samochodów osobowych, ciężarowych, maszyn rolniczych. 
+Handlujący na giełdzie samochodowej zwolnieni będą z opłaty targowej do końca 2022 roku.
+
 <!-- Dla mieszkańców powiatów: jarosławskiego, przemyskiego, lubaczowskiego, przeworskiego, leżajskiego zajmujących się handlem na giełdach, bazarach 50% zniżki w rezerwacji miejsc do końca XI.2022r. na Giełdzie Wschód. 
 Szczegół pod numerem: 604750443
 Oferta ważna do odwołania lub do wyczerpania miejsc. -->
