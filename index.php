@@ -105,8 +105,21 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
         
 
 
-PROMOCJA!
-Producenci win z Podkarpacia wystawiają się bez opłat. 
+Zapraszamy Handlujących:<br>
+
+- drobiem, gołębiami, królikami i innymi małymi zwierzętami;<br>
+
+- starociami, antykami;<br>
+
+- producentów win z województwa podkarpackiego<br>
+
+do skorzystania z miejsca handlowego na Giełdzie Wschód bez opłaty targowej do końca 2022 roku. <br>
+
+Przypominamy o 50% rabacie dla rezerwujących miejsce handlowe na Giełdzie Wschód po raz pierwszy.<br><br><br>
+
+UWAGA!!!<br>
+
+Informujemy, że od 7 maja 2022 roku na Giełdzie Wschód uruchomiony zostanie sektor do sprzedaży samochodów osobowych, ciężarowych, maszyn rolniczych. Handlujący w tym sektorze zwolnieni będą z opłaty targowej do końca 2022 r.
 <!-- Dla mieszkańców powiatów: jarosławskiego, przemyskiego, lubaczowskiego, przeworskiego, leżajskiego zajmujących się handlem na giełdach, bazarach 50% zniżki w rezerwacji miejsc do końca XI.2022r. na Giełdzie Wschód. 
 Szczegół pod numerem: 604750443
 Oferta ważna do odwołania lub do wyczerpania miejsc. -->
