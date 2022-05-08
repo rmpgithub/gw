@@ -115,7 +115,7 @@ Zapraszamy Handlujących:<br>
 
 do skorzystania z miejsca handlowego na Giełdzie Wschód bez opłaty targowej do końca 2022 roku. <br>
 
-Przypominamy o 50% rabacie dla rezerwujących miejsce handlowe na Giełdzie Wschód po raz pierwszy.<br><br><br>
+<!-- Przypominamy o 50% rabacie dla rezerwujących miejsce handlowe na Giełdzie Wschód po raz pierwszy.<br><br><br> -->
 
 UWAGA!!!<br>
 
