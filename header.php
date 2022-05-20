@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="./dist/css/simplelightbox.min.css">
     <link rel="stylesheet" href="./dist/css/main.min.css">
     <link rel="stylesheet" href="./dist/css/style.css">
-
+    <link rel="canonical" href="https://gieldawschod.pl">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
 
 
