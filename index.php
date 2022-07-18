@@ -114,15 +114,13 @@ Briefing Prasowy - przebudowa skrzyżowania na DK nr 94, 77 przy Giełdzie Wsch�
 </div>
 
 
-<!-- Zapraszamy Handlujących:<br>
-
-- drobiem, gołębiami, królikami i innymi małymi zwierzętami;<br>
+Zapraszamy Handlujących:<br>
 
 - starociami, antykami;<br>
 
 - producentów win z województwa podkarpackiego<br>
 
-do skorzystania z miejsca handlowego na Giełdzie Wschód bez opłaty targowej do końca 2022 roku. <br> -->
+do skorzystania z miejsca handlowego na Giełdzie Wschód bez opłaty targowej do końca 2022 roku. <br>
 
 <!-- Przypominamy o 50% rabacie dla rezerwujących miejsce handlowe na Giełdzie Wschód po raz pierwszy.<br><br><br> -->
 
