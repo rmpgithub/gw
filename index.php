@@ -109,7 +109,7 @@ Briefing Prasowy - przebudowa skrzyżowania na DK nr 94, 77 przy Giełdzie Wsch�
 <div class="container" style="margin-top: 30px;">
     <div class="videoWrapper">
         
-        <iframe width="853" height="480" src="https://www.youtube.com/embed/oZKXniTSP6c?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/J6eKUWVOyUM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
