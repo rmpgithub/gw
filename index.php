@@ -103,7 +103,7 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
             </h2> -->
 <!-- NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br> -->
 
-Briefing Prasowy - przebudowa skrzyżowania na DK nr 94, 77 przy Giełdzie Wschód w Skołoszowie</BR>
+<!-- Briefing Prasowy - przebudowa skrzyżowania na DK nr 94, 77 przy Giełdzie Wschód w Skołoszowie</BR>
 
 
 <div class="container" style="margin-top: 30px;">
@@ -112,15 +112,24 @@ Briefing Prasowy - przebudowa skrzyżowania na DK nr 94, 77 przy Giełdzie Wsch�
         <iframe width="853" height="480" src="https://www.youtube.com/embed/J6eKUWVOyUM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
+ -->
 
 
+
+Wielka promocja na Giełdzie Wschód!!!<br>
+
+Handlujący po raz pierwszy na Giełdzie Wschód zwolnieni z opłaty targowej na podstawie talonu na cztery kolejne giełdy. Więcej informacji pod nr telefonu +48 606 418 785
+
+
+
+<!-- 
 Zapraszamy Handlujących:<br>
 
 - starociami, antykami;<br>
 
 - producentów win z województwa podkarpackiego<br>
 
-do skorzystania z miejsca handlowego na Giełdzie Wschód bez opłaty targowej do końca 2022 roku. <br>
+do skorzystania z miejsca handlowego na Giełdzie Wschód bez opłaty targowej do końca 2022 roku. <br> -->
 
 <!-- Przypominamy o 50% rabacie dla rezerwujących miejsce handlowe na Giełdzie Wschód po raz pierwszy.<br><br><br> -->
 
