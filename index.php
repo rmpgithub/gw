@@ -118,7 +118,8 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 
 Wielka promocja na Giełdzie Wschód!!!<br>
 
-Handlujący po raz pierwszy na Giełdzie Wschód zwolnieni z opłaty targowej na podstawie talonu na cztery kolejne giełdy. Więcej informacji pod nr telefonu +48 606 418 785
+Zacznij handlować na Giełdzie Wschód w Skołoszowie. Jesienna promocja dla wynajmujących powierzchnię handlową. Giełda Wschód zaprasza!!!
+
 
 
 
