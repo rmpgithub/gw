@@ -1,11 +1,8 @@
 <?php require_once('header.php') ?>
 
-<!-- <div class="gielda-swiateczna">Giełda Świąteczna, Jarmark Świąteczny<br><br>
+<div class="gielda-swiateczna">Już 6 listopada wielkie otwarcie Giełdy Samochodowej<br><br>
 
-    Zapraszamy od 5-12-2020 do 24-12-2020 w każdy dzień tygodnia w godzinnach 9-22.<br>
-    Przyjmujemy zapisy dla handuljących, liczba miejsc ograniczona, zgłoszenia przyjmujemy telefonicznie lub przez e-mail.<br>
-    Opłata 60 zł za 6m x 6m w sobotę i niedzielę,<br>
-    Opłata 10 zł za 6m x 6m od poniedziałku do piątku.<br>
+    Giełda Wschód odbywa się w każdą sobotę BEZ ZMIAN, a dodatkowo Giełda samochodowa, maszyn rolniczych, budowlanych i różności od 6 listopada w każdą niedzielę. ZAPRASZAMY W SOBOTĘ I NIEDZIELĘ!
  
  
     
@@ -15,11 +12,11 @@
             
             
             <div class="row">
-                <div class="col-12"><a href="./src/assets/img/swiateczna-gielda/1.jpg"><img class="Thumbnail" src="./src/assets/img/swiateczna-gielda/1.jpg" alt=""></a></div>  
+                <div class="col-12"><a href="./src/assets/img/swiateczna-gielda/plakat.jpg"><img class="Thumbnail" src="./src/assets/img/swiateczna-gielda/plakat.jpg" alt=""></a></div>  
             </div>
 
 </div>
- -->
+
 
 <!-- <div class="container gallery gallery-index" style="margin:auto; ">
             
