@@ -1,21 +1,29 @@
 <?php require_once('header.php') ?>
 
-<div class="gielda-swiateczna">Już 6 listopada wielkie otwarcie Giełdy Samochodowej<br><br>
+<!-- <div class="gielda-swiateczna">Uwaga❗<br><br>
 
-    Giełda Wschód odbywa się w każdą sobotę BEZ ZMIAN, a dodatkowo Giełda samochodowa, maszyn rolniczych, budowlanych i różności od 6 listopada w każdą niedzielę. ZAPRASZAMY W SOBOTĘ I NIEDZIELĘ!
+    
+Na Giełdzie Wschód w Skołoszowie, która odbywa się w każdą sobotę i niedzielę w godzinach 6.00-14.00, Ukraińcy poszukują: <br>
+▶️agregatów prądotwórczych, <br>
+▶️butli gazowych różnej wielkości,<br> 
+▶️elektronarzędzi, <br>
+▶️maszyn rolniczych, <br>
+▶️budowlanych, <br>
+▶️materiałów budowlanych i wielu innych.<br>
+Giełda Wschód przewiduje promocję dla handlujących powyższymi towarami.<br>
  
  
     
-</div>
+</div> -->
 
-<div class="container gallery gallery-index" style="margin-top: 40px;">
+<!-- <div class="container gallery gallery-index" style="margin-top: 40px;">
             
             
             <div class="row">
                 <div class="col-12"><a href="./src/assets/img/swiateczna-gielda/plakat.jpg"><img class="Thumbnail" src="./src/assets/img/swiateczna-gielda/plakat.jpg" alt=""></a></div>  
             </div>
 
-</div>
+</div> -->
 
 
 <!-- <div class="container gallery gallery-index" style="margin:auto; ">
@@ -84,7 +92,7 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
     <div class="row mb-3 mb-lg-0">
         <div class="col-12 col-lg-3"></div>
         <div class="col-12 col-lg-6">
-            <h1 class="heading-1 text-center">Aktualności</h1>
+            <h1 class="heading-1 text-center">Uwaga❗</h1>
             <hr class="hr-heading">
         </div>
         <!-- <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
@@ -113,10 +121,14 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 
 
 
-Wielka promocja na Giełdzie Wschód!!!<br>
-
-Zacznij handlować na Giełdzie Wschód w Skołoszowie. Jesienna promocja dla wynajmujących powierzchnię handlową. Giełda Wschód zaprasza!!!
-
+Na Giełdzie Wschód w Skołoszowie, która odbywa się w każdą sobotę i niedzielę w godzinach 6.00-14.00, Ukraińcy poszukują: <br>
+▶️agregatów prądotwórczych, <br>
+▶️butli gazowych różnej wielkości,<br> 
+▶️elektronarzędzi, <br>
+▶️maszyn rolniczych, <br>
+▶️budowlanych, <br>
+▶️materiałów budowlanych i wielu innych.<br>
+Giełda Wschód przewiduje promocję dla handlujących powyższymi towarami.<br>
 
 
 
