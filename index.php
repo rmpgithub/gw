@@ -59,11 +59,11 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 <section class="container info-index">
     <div class="row no-gutters">
         <div class="col-12 col-md-4">
-            <a href="cennik.php" class="item">
+            <a href="kontakt.php" class="item">
                 <div class="thumb mr-0">
                     <?php include('./src/assets/img/_update/ico/zgloszenia.svg') ?>
                 </div>
-                CENNIK
+                KONTAKT
             </a>
         </div>
         <div class="col-12 col-md-4">
