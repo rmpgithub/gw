@@ -160,9 +160,9 @@
                             <li>
                                 <a href="regulamin.php">REGULAMIN</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="cennik.php">CENNIK</a>
-                            </li>
+                            </li> -->
         					 <li>
                                  <a href="plan-gieldy.php">PLAN GIEŁDY</a>
                              </li>
