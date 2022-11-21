@@ -147,9 +147,9 @@
                             <!-- <li>
                                 <a href="plakat.php">PLAKAT</a>
                             </li> -->
-                            <li>
+                            <!-- <li>
                                 <a href="ulotka.php">ULOTKA</a>
-                            </li>
+                            </li> -->
                         </ul>
                     </li>
                     <li><span>DLA SPRZEDAWCÓW <i class="fa fa-chevron-down ml-3"></i></span>
