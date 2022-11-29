@@ -73,7 +73,7 @@
             <a href="index.php"><img src="./src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <h3 class="heading-3">W KAŻDĄ SOBOTĘ I NIEDZIELĘ <br> SKOŁOSZÓW </h3>
+            <h3 class="heading-3">W KAŻDĄ SOBOTĘ I NIEDZIELĘ <br> 6:00- 14:00 SKOŁOSZÓW </h3>
            <!--  <h3 class="heading-3"> 6 LUTY 2021 <br> SKOŁOSZÓW</h3>
             <small>Pozostało <b id="counter"></b></small> -->
         </div>
@@ -144,12 +144,12 @@
                             <li>
                                 <a href="galeria.php">GALERIA</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="plakat.php">PLAKAT</a>
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <a href="ulotka.php">ULOTKA</a>
-                            </li>
+                            </li> -->
                         </ul>
                     </li>
                     <li><span>DLA SPRZEDAWCÓW <i class="fa fa-chevron-down ml-3"></i></span>
@@ -160,9 +160,9 @@
                             <li>
                                 <a href="regulamin.php">REGULAMIN</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="cennik.php">CENNIK</a>
-                            </li>
+                            </li> -->
         					 <li>
                                  <a href="plan-gieldy.php">PLAN GIEŁDY</a>
                              </li>
