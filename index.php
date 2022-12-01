@@ -16,14 +16,14 @@ Giełda Wschód przewiduje promocję dla handlujących powyższymi towarami.<br>
     
 </div> -->
 
-<!-- <div class="container gallery gallery-index" style="margin-top: 40px;">
+<div class="container gallery gallery-index" style="margin-top: 40px;">
             
             
             <div class="row">
-                <div class="col-12"><a href="./src/assets/img/swiateczna-gielda/plakat.jpg"><img class="Thumbnail" src="./src/assets/img/swiateczna-gielda/plakat.jpg" alt=""></a></div>  
+                <div class="col-12"><a href="./src/assets/img/swiateczna-gielda/5.png"><img class="Thumbnail" src="./src/assets/img/swiateczna-gielda/5.png" alt=""></a></div>  
             </div>
 
-</div> -->
+</div>
 
 
 <!-- <div class="container gallery gallery-index" style="margin:auto; ">
