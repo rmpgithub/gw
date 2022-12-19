@@ -119,8 +119,10 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 </div>
  -->
 
+W okresie zimowym zawieszamy sobotnią i niedzielną Giełdę Wschód w Skołoszowie. Zapraszamy 4 marca 2023 roku.
 
 
+<!-- 
 Na Giełdzie Wschód w Skołoszowie, która odbywa się w każdą sobotę i niedzielę w godzinach 6.00-14.00, Ukraińcy poszukują: <br>
 ▶️agregatów prądotwórczych, <br>
 ▶️butli gazowych różnej wielkości,<br> 
@@ -128,7 +130,7 @@ Na Giełdzie Wschód w Skołoszowie, która odbywa się w każdą sobotę i nied
 ▶️maszyn rolniczych, <br>
 ▶️budowlanych, <br>
 ▶️materiałów budowlanych i wielu innych.<br>
-Giełda Wschód przewiduje promocję dla handlujących powyższymi towarami.<br>
+Giełda Wschód przewiduje promocję dla handlujących powyższymi towarami.<br> -->
 
 
 
