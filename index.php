@@ -88,123 +88,33 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
 
 
 
-<section class="container news-index">
+<!-- <section class="container news-index">
     <div class="row mb-3 mb-lg-0">
         <div class="col-12 col-lg-3"></div>
         <div class="col-12 col-lg-6">
-            <h1 class="heading-1 text-center">Uwaga❗</h1>
+            <h1 class="heading-1 text-center"></h1>
             <hr class="hr-heading">
         </div>
-        <!-- <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
+         <div class="col-12 col-lg-3 d-flex align-items-center justify-content-end">
             <a href="aktualnosci.php" class="button-outline">ZOBACZ WSZYSTKIE <i class="fa fa-chevron-right ml-2"></i></a>
-        </div> -->
+        </div> 
     </div>
 
     <div class="row">
         <div class="dla_firm">
-            <!-- <h2> 
-                Giełda Wschód 30.01.2021 r. będzie zamknięta. Zapraszamy od 6.02.2021 r. w każdą sobotę.
-
-            </h2> -->
-<!-- NA TERENIE GIEŁDY WSCHÓD OBOWIĄZUJE BEZWZGLĘDNY NAKAZ ZAKRYWANIA UST I NOSA, A TAKŻE DEZYNFEKCJA RĄK I ZACHOWANIE DYSTANSU SPOŁECZNEGO.<br> -->
-
-<!-- Briefing Prasowy - przebudowa skrzyżowania na DK nr 94, 77 przy Giełdzie Wschód w Skołoszowie</BR>
-
-
-<div class="container" style="margin-top: 30px;">
-    <div class="videoWrapper">
         
-        <iframe width="853" height="480" src="https://www.youtube.com/embed/J6eKUWVOyUM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</div>
- -->
 
-W okresie zimowym zawieszamy sobotnią i niedzielną Giełdę Wschód w Skołoszowie. Zapraszamy 4 marca 2023 roku.
+                <div class="container" style="margin-top: 30px;">
+                    <div class="videoWrapper">
+                        
+                        <iframe width="853" height="480" src="https://www.youtube.com/embed/J6eKUWVOyUM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
 
-
-<!-- 
-Na Giełdzie Wschód w Skołoszowie, która odbywa się w każdą sobotę i niedzielę w godzinach 6.00-14.00, Ukraińcy poszukują: <br>
-▶️agregatów prądotwórczych, <br>
-▶️butli gazowych różnej wielkości,<br> 
-▶️elektronarzędzi, <br>
-▶️maszyn rolniczych, <br>
-▶️budowlanych, <br>
-▶️materiałów budowlanych i wielu innych.<br>
-Giełda Wschód przewiduje promocję dla handlujących powyższymi towarami.<br> -->
-
-
-
-<!-- 
-Zapraszamy Handlujących:<br>
-
-- starociami, antykami;<br>
-
-- producentów win z województwa podkarpackiego<br>
-
-do skorzystania z miejsca handlowego na Giełdzie Wschód bez opłaty targowej do końca 2022 roku. <br> -->
-
-<!-- Przypominamy o 50% rabacie dla rezerwujących miejsce handlowe na Giełdzie Wschód po raz pierwszy.<br><br><br> -->
-
-<!-- UWAGA!!!<br> -->
-
-<!-- Informujemy, że od 7 maja 2022 roku na Giełdzie Wschód w każdą sobotę rusza giełda  samochodów osobowych, ciężarowych, maszyn rolniczych. 
-Handlujący na giełdzie samochodowej zwolnieni będą z opłaty targowej do końca 2022 roku.
- -->
-<!-- Dla mieszkańców powiatów: jarosławskiego, przemyskiego, lubaczowskiego, przeworskiego, leżajskiego zajmujących się handlem na giełdach, bazarach 50% zniżki w rezerwacji miejsc do końca XI.2022r. na Giełdzie Wschód. 
-Szczegół pod numerem: 604750443
-Oferta ważna do odwołania lub do wyczerpania miejsc. -->
-         
-       <!--  <br> -->
- 
-<!-- Zgodnie z ostatnimi wytycznymi na Giełdzie Wschód obowiązuje zakaz aranżacji miejsc przeznaczonych do spożywania posiłków.<br>
-     -->
         </div>
     </div>    
-
-
-    <!-- <div class="row">
-        <div class="col-12 col-lg-6">
-            <div class="item"> -->
-                <!-- <div class="thumb">
-                    <img src="./src/assets/img/1.jpg" alt="1">
-                </div> -->
-                <!-- <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="aktualnosc-pierwsza.php">Artykuł 1</a></h2> -->
-                <!-- <p class="text">Giełda Wschód to:<br>
-                - giełda staroci (pchli targ),<br>
-                - aukcja maszyn używanych,<br>
-                - sprzedaż samochodów amerykańskich,<br>
-                
-                </p> -->
-                <!-- <a href="aktualnosc-pierwsza.php" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a> -->
-            <!-- </div>
-        </div> -->
-        <!-- <div class="col-12 col-lg-4">
-            <div class="item">
-                <div class="thumb">
-                    <img src="./src/assets/img/1.jpg" alt="1">
-                </div>
-                <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="#">Artykuł 1</a></h2>
-                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid aspernatur at
-                    consequatur dolores dolorum eaque ipsum qui quidem quos recusandae tempore.</p>
-                <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a>
-            </div>
-        </div> -->
-        <!-- <div class="col-12 col-lg-6">
-            <div class="item"> -->
-                <!-- <div class="thumb">
-                    <img src="./src/assets/img/1.jpg" alt="1">
-                </div> -->
-                <!-- <p class="date">10-05-2020</p>
-                <h2 class="heading-2"><a href="#">Artykuł 1</a></h2> -->
-               <!--  <p class="text">Handel na Giełdzie Wschód możliwy jest bez wcześniejszej rezerwacji miejsca.</p>
-                <a href="#" class="button-outline">DOWIEDZ SIĘ WIĘCEJ <i class="fa fa-chevron-right ml-2"></i></a> -->
-            <!-- </div>
-        </div>
-    </div> -->
 </section>
-
+ -->
 
 
 
