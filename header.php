@@ -127,7 +127,14 @@
         </div>
     </div>
 </header>
+<div class="container gallery gallery-index" style="margin:auto; ">
+            
+            
+            <div class="row">
+                <div class="col-12 col-md-10 offset-md-1"><a href="./src/assets/img/odwolanie/1.png"><img class="Thumbnail" src="./src/assets/img/odwolanie/1.png" alt=""></a></div>  
+            </div>
 
+</div>
 <nav class="container-fluid main-nav">
     <section class="container">
         <div class="row">
