@@ -73,7 +73,7 @@
             <a href="index.php"><img src="./src/assets/img/logo.png" alt="Logo"></a>
         </div>
         <div class="col-12 col-sm-6 col-lg-auto pt-3 pt-sm-0 d-flex flex-column justify-content-center align-items-center align-content-sm-start">
-            <!-- <h3 class="heading-3">W KAŻDĄ SOBOTĘ I NIEDZIELĘ <br> 6:00- 14:00 SKOŁOSZÓW </h3> -->
+            <h3 class="heading-3">W KAŻDĄ SOBOTĘ <!-- I NIEDZIELĘ --> <br> 6:00- 14:00 SKOŁOSZÓW </h3>
            <!--  <h3 class="heading-3"> 6 LUTY 2021 <br> SKOŁOSZÓW</h3>
             <small>Pozostało <b id="counter"></b></small> -->
         </div>
@@ -127,14 +127,14 @@
         </div>
     </div>
 </header>
-<div class="container gallery gallery-index" style="margin:auto; ">
+<!-- <div class="container gallery gallery-index" style="margin:auto; ">
             
             
             <div class="row">
                 <div class="col-12 col-md-10 offset-md-1"><a href="./src/assets/img/odwolanie/2.png"><img class="Thumbnail" src="./src/assets/img/odwolanie/2.png" alt=""></a></div>  
             </div>
 
-</div>
+</div> -->
 <nav class="container-fluid main-nav">
     <section class="container">
         <div class="row">
