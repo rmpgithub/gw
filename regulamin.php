@@ -14,7 +14,7 @@
 
                 <ul>
                     <li class="dllink">
-                        <a target="_blank" href="./src/assets/pdf/Regulamin2023.pdf"><span> Regulamin Giełdy
+                        <a target="_blank" href="./src/assets/pdf/Regulamin.pdf"><span> Regulamin Giełdy
                                 <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
