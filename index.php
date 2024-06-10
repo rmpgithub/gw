@@ -127,9 +127,6 @@ Na Giełdzie Wschód handlujemy cały tydzień. Zapraszamy handlujących i kupuj
     </video>
 </div> -->
 
-<?php require_once('patronat.php') ?>
-
-<?php require_once('patronat-medialny.php') ?>
 
 <?php require_once('footer.php') ?>
 

@@ -14,12 +14,21 @@
 
                 <ul>
                     <li class="dllink">
-                        <a target="_blank" href="./src/assets/pdf/Regulamin.pdf"><span> Regulamin Giełdy
+                        <a target="_blank" href="./src/assets/pdf/RegulaminGieldy.pdf"><span> Regulamin Giełdy
                                 <img src="./src/assets/img/pdficon.png"></span>
                         </a>
                     </li>
                     
                 </ul>
+                <ul>
+                    <li class="dllink">
+                        <a target="_blank" href="./src/assets/pdf/RegulaminRadymno.pdf"><span> Regulamin dla rolników z gminy Radymno 
+                                <img src="./src/assets/img/pdficon.png"></span>
+                        </a>
+                    </li>
+                    
+                </ul>
+
 
                 <!-- <ul>
                     <li class="dllink">
